@@ -1,0 +1,40 @@
+video, .controls, .social{
+    display: block;
+    width: 24rem;
+    margin: 1rem auto;
+}
+
+
+.viewsContainer{
+    float: left;
+}
+
+.voteContainer{
+    float: right;
+}
+
+.timeContainer{
+    float: right;
+}
+
+#seekslider {
+    background: #d3d3d3
+}
+
+.btns {
+    background-color:steelblue;
+    border-radius: 6px;
+}
+
+.btns:hover{
+    /* float: left; */
+    background-color:rgb(133, 158, 179);
+}
+
+#playPause  {
+    background-color:#FF0000;
+}
+
+#playPause:hover  {
+    background-color:rgb(241, 180, 180);
+}
